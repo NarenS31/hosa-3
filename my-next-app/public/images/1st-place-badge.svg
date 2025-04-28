@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Gold badge background -->
+  <circle cx="100" cy="100" r="80" fill="#FFD700" />
+  <circle cx="100" cy="100" r="70" fill="#F9C80E" />
+  
+  <!-- Star points around the circle -->
+  <path d="M100,20 L105,5 L110,20 Z" fill="#FFD700" />
+  <path d="M135,30 L145,15 L140,35 Z" fill="#FFD700" />
+  <path d="M170,65 L185,60 L170,75 Z" fill="#FFD700" />
+  <path d="M170,135 L185,140 L170,125 Z" fill="#FFD700" />
+  <path d="M135,170 L145,185 L130,170 Z" fill="#FFD700" />
+  <path d="M100,180 L105,195 L95,195 L100,180 Z" fill="#FFD700" />
+  <path d="M65,170 L55,185 L70,170 Z" fill="#FFD700" />
+  <path d="M30,135 L15,140 L30,125 Z" fill="#FFD700" />
+  <path d="M30,65 L15,60 L30,75 Z" fill="#FFD700" />
+  <path d="M65,30 L55,15 L70,30 Z" fill="#FFD700" />
+  
+  <!-- 1st text -->
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="80" font-weight="bold" text-anchor="middle" fill="#222">1</text>
+  <text x="135" y="80" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#222">ST</text>
+</svg> 
